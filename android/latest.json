@@ -1,13 +1,13 @@
 {
-  "version": "2.1.2",
-  "versionCode": 20102,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.2.apk",
-  "sha256": "ba8e01056a6610538ea440feab6deb02f66a95bd2f5b04d55bc5f93802b6586e",
+  "version": "2.1.3",
+  "versionCode": 20103,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.3.apk",
+  "sha256": "2f840c6fac355d28a8828f8ec68e704d08da874aa750f49bdbea500b0dc6197f",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "TP AI greets you by your own name. TP asks for it once",
-    "Your TP AI chats are private and stay on your own phone",
-    "Clearer TP AI messages"
+    "🎉 After every update, TP Browser tells you it's done and shows what's new, like this",
+    "⚙️ Your settings, tabs, favorites and TP AI chats stay exactly the same when TP updates",
+    "🔔 You get a notification when an update has finished installing"
   ]
 }
