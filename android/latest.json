@@ -1,13 +1,12 @@
 {
-  "version": "2.1.6",
-  "versionCode": 20106,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.6.apk",
-  "sha256": "2d47045d75d08c49e4b6d236ce1c82b576615e4a3bf1c4b4800f5ad70a8cc7ef",
+  "version": "2.1.7",
+  "versionCode": 20107,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.7.apk",
+  "sha256": "d1d14fd7b58a2b54ea6ff3c398c2dce26eac6580fe887d77bc42127cf6882a76",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "👆 Buttons that open a new window now work (this was stopping some Blooket buttons)",
-    "🧰 New “Page not working?” in the ⋮ menu: quick fixes, and a problem report you can send",
-    "🪟 Allow pop-ups for just one site when it needs them"
+    "🔍 “Page not working?” can now run a deeper check that records what happens when you tap, so broken sites can be fixed",
+    "📳 Websites and games can now vibrate your phone, like in Chrome"
   ]
 }
