@@ -1,12 +1,18 @@
 {
-  "version": "2.1.8",
-  "versionCode": 20108,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.8.apk",
-  "sha256": "586a9224c79799bdbc7e52d704e3d034d0a4e9005780d2efaaba31b6bcc6f2d6",
+  "version": "2.2.0",
+  "versionCode": 20200,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.2.0.apk",
+  "sha256": "5f9a5c06f9c492353f2d886bdc2d6608d39845a8f2f38ac9786795b5e9bb05e4",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "✅ Blooket answers work now. Blooket needed a speech feature Android's web engine doesn't have, and TP Browser adds it",
-    "🌐 Sites that ask for notifications or read text aloud no longer break"
+    "📖 Reader view: ⋮ → Reader shows just the article in big, comfy text. Pick the size, Serif or Sans, and Light, Sepia or Dark",
+    "🔊 Listen: TP Browser reads pages out loud and highlights each paragraph as it goes. TP AI answers have a Listen button too",
+    "🎤 Talk instead of typing: tap the mic in search or in TP AI",
+    "🖼️ Picture-in-picture: leave TP while a video plays and it keeps playing in a small window",
+    "🌙 Dark mode for websites: ⋮ → Dark mode on this site turns bright pages dark, and pictures keep their colours",
+    "🌐 Translate whole pages into Thai, English and more, and 📷 save screenshots of pages to your Photos",
+    "🔳 Share a page with a QR code, ➗ do quick sums right in the search bar, and 🔥 see your Focus streak",
+    "✨ Smoother everything: menus spring up and swipe away, taps ripple, the home page glides in, and swiping the address bar slides between tabs"
   ]
 }
