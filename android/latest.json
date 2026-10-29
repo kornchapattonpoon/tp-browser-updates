@@ -1,13 +1,13 @@
 {
-  "version": "2.1.4",
-  "versionCode": 20104,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.4.apk",
-  "sha256": "853bb9dab2a5fbb500dd0b39a6df44add90ce8e3b7d4511555472af4f7da0f87",
+  "version": "2.1.5",
+  "versionCode": 20105,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.5.apk",
+  "sha256": "90ae653bb4d90a98f5edafef648be1730bc397ade4eadd9ca5f96479be78a0e5",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "👤 TP asks who's using the phone, so TP AI talks to you as you, not as someone else",
-    "🔒 Each person's TP AI chat is separate and stays on their own phone",
-    "🧹 If your name changes, TP AI starts a fresh chat for you"
+    "👆 Fixed buttons not working on Blooket and other sites that use ad and tracking tools",
+    "✨ Smoother animations: menus slide, screens fade, tabs zoom open, and tab switching cross-fades",
+    "🛡️ If a site's buttons don't respond, TP Shield's menu now shows how to turn it off for that site"
   ]
 }
