@@ -1,13 +1,13 @@
 {
-  "version": "2.1.1",
-  "versionCode": 20101,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.1.apk",
-  "sha256": "b86316f0fceb95af59cf66e0417e16520c424c5c20e7db929f3077376dc7832c",
+  "version": "2.1.2",
+  "versionCode": 20102,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.2.apk",
+  "sha256": "ba8e01056a6610538ea440feab6deb02f66a95bd2f5b04d55bc5f93802b6586e",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "TP AI: a free assistant that summarizes pages, answers questions and opens tabs for you. Tap ✦, no setup needed",
-    "TP Browser now updates itself, so you never have to reinstall",
-    "When TP AI is busy, a simpler AI answers instead of stopping"
+    "TP AI greets you by your own name. TP asks for it once",
+    "Your TP AI chats are private and stay on your own phone",
+    "Clearer TP AI messages"
   ]
 }
