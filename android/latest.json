@@ -1,12 +1,12 @@
 {
-  "version": "2.1.7",
-  "versionCode": 20107,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.7.apk",
-  "sha256": "d1d14fd7b58a2b54ea6ff3c398c2dce26eac6580fe887d77bc42127cf6882a76",
+  "version": "2.1.8",
+  "versionCode": 20108,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.1.8.apk",
+  "sha256": "586a9224c79799bdbc7e52d704e3d034d0a4e9005780d2efaaba31b6bcc6f2d6",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "🔍 “Page not working?” can now run a deeper check that records what happens when you tap, so broken sites can be fixed",
-    "📳 Websites and games can now vibrate your phone, like in Chrome"
+    "✅ Blooket answers work now. Blooket needed a speech feature Android's web engine doesn't have, and TP Browser adds it",
+    "🌐 Sites that ask for notifications or read text aloud no longer break"
   ]
 }
