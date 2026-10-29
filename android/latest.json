@@ -1,18 +1,12 @@
 {
-  "version": "2.2.0",
-  "versionCode": 20200,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.2.0.apk",
-  "sha256": "5f9a5c06f9c492353f2d886bdc2d6608d39845a8f2f38ac9786795b5e9bb05e4",
+  "version": "2.2.1",
+  "versionCode": 20201,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.2.1.apk",
+  "sha256": "f6d93448bd72ddbfee1192a413115063ee1e74b05117acd8352d2f76b4b0b765",
   "date": "2026-10-29",
   "minAndroid": 24,
   "notes": [
-    "📖 Reader view: ⋮ → Reader shows just the article in big, comfy text. Pick the size, Serif or Sans, and Light, Sepia or Dark",
-    "🔊 Listen: TP Browser reads pages out loud and highlights each paragraph as it goes. TP AI answers have a Listen button too",
-    "🎤 Talk instead of typing: tap the mic in search or in TP AI",
-    "🖼️ Picture-in-picture: leave TP while a video plays and it keeps playing in a small window",
-    "🌙 Dark mode for websites: ⋮ → Dark mode on this site turns bright pages dark, and pictures keep their colours",
-    "🌐 Translate whole pages into Thai, English and more, and 📷 save screenshots of pages to your Photos",
-    "🔳 Share a page with a QR code, ➗ do quick sums right in the search bar, and 🔥 see your Focus streak",
-    "✨ Smoother everything: menus spring up and swipe away, taps ripple, the home page glides in, and swiping the address bar slides between tabs"
+    "🗣️ Ask TP AI with the 🎤 mic and it answers out loud. Type your question and it stays quiet, like before",
+    "🎤 Tap the mic again while TP AI is talking and it stops so it can listen to you"
   ]
 }
