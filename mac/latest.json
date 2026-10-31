@@ -1,0 +1,12 @@
+{
+  "version": "2.2.1",
+  "versionCode": 20201,
+  "zip": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/mac/tp-browser-mac-2.2.1.zip",
+  "sha256": "dc5ea4ceaa60a2be9242fe32f586d9c97e18533a3c659ebf9f81d6861262b635",
+  "date": "2026-11-01",
+  "minElectron": 35,
+  "notes": [
+    "🗣️ Ask TP AI out loud: click 🎤, speak, and it answers out loud too. Type your question and it stays quiet",
+    "🔄 TP Browser now updates itself. New versions download in the background and finish when you restart (Settings → Updates)"
+  ]
+}
