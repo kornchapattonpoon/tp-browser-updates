@@ -20,6 +20,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.3.0",
+          "buildVersion": "3",
+          "date": "2026-11-01",
+          "localizedDescription": "🫧 Real Liquid Glass: on iOS 26 the address bar is now made of Apple’s own Liquid Glass. It bends and tints with the page behind it and ripples under your finger\n📜 Websites now run all the way to the bottom of the screen and scroll underneath the floating bar, like Safari. Their own buttons stay above it\n✨ TP’s messages, the 🎤 voice panel and iPhone pop-ups use Apple’s glass too\n🍎 On iOS 15–18, TP keeps its glass look-alike",
+          "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.3.0.ipa",
+          "size": 300161,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "2.2.2",
           "buildVersion": "2",
           "date": "2026-11-01",
@@ -48,11 +57,11 @@
           "NSSpeechRecognitionUsageDescription": "Turns what you say into text when you tap 🎤 in search or TP AI."
         }
       },
-      "version": "2.2.2",
+      "version": "2.3.0",
       "versionDate": "2026-11-01",
-      "versionDescription": "🫧 Liquid Glass: buttons, menus, the address bar and switches are now made of glass, like iPhone’s own apps. Press a button and it swells and glows under your finger\n🎚️ Choices like Spaces and themes slide a glass lens to the one you pick\n📐 With the new app version, the address bar floats over the page, menus float above the bottom edge and the page’s own colour shows around them",
-      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.2.ipa",
-      "size": 285148
+      "versionDescription": "🫧 Real Liquid Glass: on iOS 26 the address bar is now made of Apple’s own Liquid Glass. It bends and tints with the page behind it and ripples under your finger\n📜 Websites now run all the way to the bottom of the screen and scroll underneath the floating bar, like Safari. Their own buttons stay above it\n✨ TP’s messages, the 🎤 voice panel and iPhone pop-ups use Apple’s glass too\n🍎 On iOS 15–18, TP keeps its glass look-alike",
+      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.3.0.ipa",
+      "size": 300161
     }
   ],
   "news": []

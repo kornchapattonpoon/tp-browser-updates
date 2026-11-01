@@ -1,21 +1,22 @@
 {
-  "version": "2.2.2",
-  "versionCode": 20202,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.2.2.json",
-  "sha256": "7a0643523195f300728c90400a302a6d4015c1690a5478983ea2edd864ab9b00",
+  "version": "2.3.0",
+  "versionCode": 20300,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.3.0.json",
+  "sha256": "6d815c5de8956102f60c289d9966bd3ca09d59078c49287fa97290d27fff78b3",
   "minApp": 1,
   "date": "2026-11-01",
   "notes": [
-    "🫧 Liquid Glass: buttons, menus, the address bar and switches are now made of glass, like iPhone’s own apps. Press a button and it swells and glows under your finger",
-    "🎚️ Choices like Spaces and themes slide a glass lens to the one you pick",
-    "📐 With the new app version, the address bar floats over the page, menus float above the bottom edge and the page’s own colour shows around them"
+    "🫧 Real Liquid Glass: on iOS 26 the address bar is now made of Apple’s own Liquid Glass. It bends and tints with the page behind it and ripples under your finger",
+    "📜 Websites now run all the way to the bottom of the screen and scroll underneath the floating bar, like Safari. Their own buttons stay above it",
+    "✨ TP’s messages, the 🎤 voice panel and iPhone pop-ups use Apple’s glass too",
+    "🍎 On iOS 15–18, TP keeps its glass look-alike"
   ],
   "app": {
-    "version": "2.2.2",
-    "build": 2,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.2.ipa",
-    "sha256": "c4c0356785581a3395312482f376cdb15c4d95321933803f5468b0d59d030b2e",
-    "size": 285148,
+    "version": "2.3.0",
+    "build": 3,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.3.0.ipa",
+    "sha256": "24e9b9a2d1075a6c8b0865144794f903a4061e8227a2bebc2e41a380755e6db8",
+    "size": 300161,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"
