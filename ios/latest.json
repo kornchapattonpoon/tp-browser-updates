@@ -1,0 +1,22 @@
+{
+  "version": "2.2.1",
+  "versionCode": 20201,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.2.1.json",
+  "sha256": "3b406453ffa76a95ff04622ee51eeb075233b70c48b06cf6bf7faab3ca1d7e70",
+  "minApp": 1,
+  "date": "2026-11-01",
+  "notes": [
+    "📱 TP Browser is on iPhone and iPad: the same home page, Spaces, TP Shield, Focus mode and TP AI as on your other devices",
+    "🗣️ Tap 🎤 to ask TP AI out loud and it answers out loud. Type and it stays quiet",
+    "🔄 Updates itself: new versions of TP’s screens download in the background and finish when you tap Restart & update"
+  ],
+  "app": {
+    "version": "2.2.1",
+    "build": 1,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.1.ipa",
+    "sha256": "ff0b0aec2f27edec8c0efca2f384453d75488241e709a30ba68ee5a45e00a701",
+    "size": 278318,
+    "minOS": "15.0"
+  },
+  "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"
+}

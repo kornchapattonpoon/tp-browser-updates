@@ -1,0 +1,50 @@
+{
+  "name": "TP Browser",
+  "identifier": "com.tonpoon.tpbrowser.source",
+  "subtitle": "Tonpoon's browser for iPhone and iPad",
+  "description": "Install TP Browser and get its updates automatically.",
+  "iconURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/icon.png",
+  "website": "https://github.com/kornchapattonpoon/tp-browser-updates",
+  "tintColor": "#7C5CFF",
+  "sourceURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json",
+  "apps": [
+    {
+      "name": "TP Browser",
+      "bundleIdentifier": "com.tonpoon.tpbrowser",
+      "developerName": "Tonpoon",
+      "subtitle": "Fast, private, focused. With TP AI.",
+      "localizedDescription": "Tonpoon's own web browser: Spaces for School, Games and Personal tabs, TP Shield (blocks ads and trackers), Focus mode, reader view with read-aloud, dark mode for websites, and TP AI, a free assistant that can read pages and open sites for you. Tap 🎤 to ask out loud and it answers out loud. Updates itself.",
+      "iconURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/icon.png",
+      "tintColor": "#7C5CFF",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2.1",
+          "buildVersion": "1",
+          "date": "2026-11-01",
+          "localizedDescription": "📱 TP Browser is on iPhone and iPad: the same home page, Spaces, TP Shield, Focus mode and TP AI as on your other devices\n🗣️ Tap 🎤 to ask TP AI out loud and it answers out loud. Type and it stays quiet\n🔄 Updates itself: new versions of TP’s screens download in the background and finish when you tap Restart & update",
+          "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.1.ipa",
+          "size": 278318,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Websites you allow can use your camera.",
+          "NSLocationWhenInUseUsageDescription": "Websites you allow can see your location.",
+          "NSMicrophoneUsageDescription": "Lets you talk to TP AI and search instead of typing, and lets websites you allow use the microphone.",
+          "NSPhotoLibraryAddUsageDescription": "Saves screenshots of pages to your Photos.",
+          "NSSpeechRecognitionUsageDescription": "Turns what you say into text when you tap 🎤 in search or TP AI."
+        }
+      },
+      "version": "2.2.1",
+      "versionDate": "2026-11-01",
+      "versionDescription": "📱 TP Browser is on iPhone and iPad: the same home page, Spaces, TP Shield, Focus mode and TP AI as on your other devices\n🗣️ Tap 🎤 to ask TP AI out loud and it answers out loud. Type and it stays quiet\n🔄 Updates itself: new versions of TP’s screens download in the background and finish when you tap Restart & update",
+      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.1.ipa",
+      "size": 278318
+    }
+  ],
+  "news": []
+}
