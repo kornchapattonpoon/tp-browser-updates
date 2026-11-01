@@ -1,21 +1,21 @@
 {
-  "version": "2.2.1",
-  "versionCode": 20201,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.2.1.json",
-  "sha256": "3b406453ffa76a95ff04622ee51eeb075233b70c48b06cf6bf7faab3ca1d7e70",
+  "version": "2.2.2",
+  "versionCode": 20202,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.2.2.json",
+  "sha256": "7a0643523195f300728c90400a302a6d4015c1690a5478983ea2edd864ab9b00",
   "minApp": 1,
   "date": "2026-11-01",
   "notes": [
-    "📱 TP Browser is on iPhone and iPad: the same home page, Spaces, TP Shield, Focus mode and TP AI as on your other devices",
-    "🗣️ Tap 🎤 to ask TP AI out loud and it answers out loud. Type and it stays quiet",
-    "🔄 Updates itself: new versions of TP’s screens download in the background and finish when you tap Restart & update"
+    "🫧 Liquid Glass: buttons, menus, the address bar and switches are now made of glass, like iPhone’s own apps. Press a button and it swells and glows under your finger",
+    "🎚️ Choices like Spaces and themes slide a glass lens to the one you pick",
+    "📐 With the new app version, the address bar floats over the page, menus float above the bottom edge and the page’s own colour shows around them"
   ],
   "app": {
-    "version": "2.2.1",
-    "build": 1,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.1.ipa",
-    "sha256": "ff0b0aec2f27edec8c0efca2f384453d75488241e709a30ba68ee5a45e00a701",
-    "size": 278318,
+    "version": "2.2.2",
+    "build": 2,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.2.2.ipa",
+    "sha256": "c4c0356785581a3395312482f376cdb15c4d95321933803f5468b0d59d030b2e",
+    "size": 285148,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"
