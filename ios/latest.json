@@ -1,21 +1,19 @@
 {
-  "version": "2.4.0",
-  "versionCode": 20400,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.4.0.json",
-  "sha256": "8b38b834882bd7816ef92afcdeebff372f4029ebc5840a69fb5a8652392d2a56",
+  "version": "2.4.1",
+  "versionCode": 20401,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.4.1.json",
+  "sha256": "6b9d7f59f796402766ff31687bce52c88c4fcad321eaa9eab3391bed1ba93531",
   "minApp": 1,
   "date": "2026-11-01",
   "notes": [
-    "📱 Built for iOS 27: TP Browser gets iOS 27’s refined Liquid Glass, and its glass address bar follows your Liquid Glass look setting",
-    "🌫️ When a page scrolls under the address bar, iOS softens it underneath so the bar stays easy to read",
-    "♿ TP’s glass turns solid with Reduce Transparency and gets clear outlines with Increase Contrast, like the rest of iPhone"
+    "⌨️ The address bar has a normal keyboard again, with a space bar, like Safari’s. The odd ⌃ ⌄ arrows above the keyboard are gone from TP’s own fields"
   ],
   "app": {
-    "version": "2.4.0",
-    "build": 4,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.0.ipa",
-    "sha256": "bd67e3dd729326d8a8266386f790316a6582fa75a772d9b8440e3bc72bcd3759",
-    "size": 303688,
+    "version": "2.4.1",
+    "build": 5,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.1.ipa",
+    "sha256": "a97a7d17b226614056a33fc033b4e9ef5bfc9dfd697d64d3c036c3610be9e5ac",
+    "size": 304898,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"

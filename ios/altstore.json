@@ -20,6 +20,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.4.1",
+          "buildVersion": "5",
+          "date": "2026-11-01",
+          "localizedDescription": "⌨️ The address bar has a normal keyboard again, with a space bar, like Safari’s. The odd ⌃ ⌄ arrows above the keyboard are gone from TP’s own fields",
+          "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.1.ipa",
+          "size": 304898,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "2.4.0",
           "buildVersion": "4",
           "date": "2026-11-01",
@@ -66,11 +75,11 @@
           "NSSpeechRecognitionUsageDescription": "Turns what you say into text when you tap 🎤 in search or TP AI."
         }
       },
-      "version": "2.4.0",
+      "version": "2.4.1",
       "versionDate": "2026-11-01",
-      "versionDescription": "📱 Built for iOS 27: TP Browser gets iOS 27’s refined Liquid Glass, and its glass address bar follows your Liquid Glass look setting\n🌫️ When a page scrolls under the address bar, iOS softens it underneath so the bar stays easy to read\n♿ TP’s glass turns solid with Reduce Transparency and gets clear outlines with Increase Contrast, like the rest of iPhone",
-      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.0.ipa",
-      "size": 303688
+      "versionDescription": "⌨️ The address bar has a normal keyboard again, with a space bar, like Safari’s. The odd ⌃ ⌄ arrows above the keyboard are gone from TP’s own fields",
+      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.1.ipa",
+      "size": 304898
     }
   ],
   "news": []
