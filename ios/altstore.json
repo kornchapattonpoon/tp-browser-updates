@@ -20,6 +20,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.4.0",
+          "buildVersion": "4",
+          "date": "2026-11-01",
+          "localizedDescription": "📱 Built for iOS 27: TP Browser gets iOS 27’s refined Liquid Glass, and its glass address bar follows your Liquid Glass look setting\n🌫️ When a page scrolls under the address bar, iOS softens it underneath so the bar stays easy to read\n♿ TP’s glass turns solid with Reduce Transparency and gets clear outlines with Increase Contrast, like the rest of iPhone",
+          "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.0.ipa",
+          "size": 303688,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "2.3.0",
           "buildVersion": "3",
           "date": "2026-11-01",
@@ -57,11 +66,11 @@
           "NSSpeechRecognitionUsageDescription": "Turns what you say into text when you tap 🎤 in search or TP AI."
         }
       },
-      "version": "2.3.0",
+      "version": "2.4.0",
       "versionDate": "2026-11-01",
-      "versionDescription": "🫧 Real Liquid Glass: on iOS 26 the address bar is now made of Apple’s own Liquid Glass. It bends and tints with the page behind it and ripples under your finger\n📜 Websites now run all the way to the bottom of the screen and scroll underneath the floating bar, like Safari. Their own buttons stay above it\n✨ TP’s messages, the 🎤 voice panel and iPhone pop-ups use Apple’s glass too\n🍎 On iOS 15–18, TP keeps its glass look-alike",
-      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.3.0.ipa",
-      "size": 300161
+      "versionDescription": "📱 Built for iOS 27: TP Browser gets iOS 27’s refined Liquid Glass, and its glass address bar follows your Liquid Glass look setting\n🌫️ When a page scrolls under the address bar, iOS softens it underneath so the bar stays easy to read\n♿ TP’s glass turns solid with Reduce Transparency and gets clear outlines with Increase Contrast, like the rest of iPhone",
+      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.0.ipa",
+      "size": 303688
     }
   ],
   "news": []
