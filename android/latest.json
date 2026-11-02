@@ -1,12 +1,13 @@
 {
-  "version": "2.2.1",
-  "versionCode": 20201,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.2.1.apk",
-  "sha256": "f6d93448bd72ddbfee1192a413115063ee1e74b05117acd8352d2f76b4b0b765",
-  "date": "2026-10-29",
+  "version": "2.3.0",
+  "versionCode": 20300,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.3.0.apk",
+  "sha256": "f3c4f64ba7935aee3a4bfad8c3970fbbd22df67e888603ce709648906514526c",
+  "date": "2026-11-02",
   "minAndroid": 24,
   "notes": [
-    "🗣️ Ask TP AI with the 🎤 mic and it answers out loud. Type your question and it stays quiet, like before",
-    "🎤 Tap the mic again while TP AI is talking and it stops so it can listen to you"
+    "🫧 Liquid Glass, like TP Browser on iPhone: buttons, menus, cards and the address bar are see-through glass that blurs what’s behind it. Press a button and it swells and glows under your finger",
+    "📍 The address bar floats as a glass capsule, with the page’s own colour around it",
+    "🎚️ Choices like °C/°F and search engines slide a glass lens to the one you pick, and switches look like iPhone’s"
   ]
 }
