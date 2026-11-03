@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "games": [
+    {
+      "id": "neon-snake",
+      "name": "Neon Snake",
+      "icon": "🐍",
+      "desc": "Swipe to steer, eat the glowing dots",
+      "version": "1.0",
+      "by": "Tonpoon",
+      "size": 7376,
+      "sha256": "a873447d3c4116ce41477c39d5b5bfc7725a5269c80ddbfe7fb9edab00b357e3",
+      "url": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/arcade/games/neon-snake-1.0.html",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "brick-bounce",
+      "name": "Brick Bounce",
+      "icon": "🧱",
+      "desc": "Break every brick with a bouncing ball",
+      "version": "1.0",
+      "by": "Tonpoon",
+      "size": 8465,
+      "sha256": "84c337f1b1ddb35bdc1dd98f2d80cb2c6f74f5fc3fa583b1ac59889c139ef98e",
+      "url": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/arcade/games/brick-bounce-1.0.html",
+      "date": "2026-11-03"
+    }
+  ],
+  "updated": "2026-11-03"
+}

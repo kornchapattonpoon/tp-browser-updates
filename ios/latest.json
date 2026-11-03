@@ -1,19 +1,21 @@
 {
-  "version": "2.4.1",
-  "versionCode": 20401,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.4.1.json",
-  "sha256": "6b9d7f59f796402766ff31687bce52c88c4fcad321eaa9eab3391bed1ba93531",
+  "version": "2.5.0",
+  "versionCode": 20500,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.5.0.json",
+  "sha256": "cb83b938352c643083b02db2e8357fb9cb8119ed49e3d3d85b7625890264373a",
   "minApp": 1,
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "notes": [
-    "⌨️ The address bar has a normal keyboard again, with a space bar, like Safari’s. The odd ⌃ ⌄ arrows above the keyboard are gone from TP’s own fields"
+    "🎮 Tonpoon Arcade: games inside TP Browser that work offline. Open it from the home page or the ⋮ menu",
+    "⛏️ TP Blocks is built in: explore a world of blocks, break and build, and fly around, with no connection needed",
+    "⬇️ Get more games like Neon Snake and Brick Bounce when you’re online. Once downloaded, they play offline too"
   ],
   "app": {
-    "version": "2.4.1",
+    "version": "2.5.0",
     "build": 5,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.4.1.ipa",
-    "sha256": "a97a7d17b226614056a33fc033b4e9ef5bfc9dfd697d64d3c036c3610be9e5ac",
-    "size": 304898,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.0.ipa",
+    "sha256": "12120d6e95be114b581039503d72e1a13903ac70f8c9dd52031660aee8463d2d",
+    "size": 325722,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"
