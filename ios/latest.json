@@ -1,21 +1,22 @@
 {
-  "version": "2.5.0",
-  "versionCode": 20500,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.5.0.json",
-  "sha256": "cb83b938352c643083b02db2e8357fb9cb8119ed49e3d3d85b7625890264373a",
+  "version": "2.5.1",
+  "versionCode": 20501,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.5.1.json",
+  "sha256": "bce5a57ace0a4e64b288ee38710116e074c2b01c09a582801e9aa75db22f0681",
   "minApp": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-10",
   "notes": [
-    "🎮 Tonpoon Arcade: games inside TP Browser that work offline. Open it from the home page or the ⋮ menu",
-    "⛏️ TP Blocks is built in: explore a world of blocks, break and build, and fly around, with no connection needed",
-    "⬇️ Get more games like Neon Snake and Brick Bounce when you’re online. Once downloaded, they play offline too"
+    "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions",
+    "🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used",
+    "📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI",
+    "📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure"
   ],
   "app": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "build": 5,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.0.ipa",
-    "sha256": "12120d6e95be114b581039503d72e1a13903ac70f8c9dd52031660aee8463d2d",
-    "size": 325722,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.1.ipa",
+    "sha256": "12b6618f1030950228cb739ce9c19aee1a20877f52e14bba883d55b02bd67370",
+    "size": 329554,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"

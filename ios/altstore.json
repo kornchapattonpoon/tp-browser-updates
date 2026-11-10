@@ -20,6 +20,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.5.1",
+          "buildVersion": "5",
+          "date": "2026-11-10",
+          "localizedDescription": "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions\n🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used\n📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI\n📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure",
+          "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.1.ipa",
+          "size": 329554,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "2.5.0",
           "buildVersion": "5",
           "date": "2026-11-03",
@@ -84,11 +93,11 @@
           "NSSpeechRecognitionUsageDescription": "Turns what you say into text when you tap 🎤 in search or TP AI."
         }
       },
-      "version": "2.5.0",
-      "versionDate": "2026-11-03",
-      "versionDescription": "🎮 Tonpoon Arcade: games inside TP Browser that work offline. Open it from the home page or the ⋮ menu\n⛏️ TP Blocks is built in: explore a world of blocks, break and build, and fly around, with no connection needed\n⬇️ Get more games like Neon Snake and Brick Bounce when you’re online. Once downloaded, they play offline too",
-      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.0.ipa",
-      "size": 325722
+      "version": "2.5.1",
+      "versionDate": "2026-11-10",
+      "versionDescription": "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions\n🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used\n📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI\n📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure",
+      "downloadURL": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.1.ipa",
+      "size": 329554
     }
   ],
   "news": []
