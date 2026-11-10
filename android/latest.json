@@ -1,13 +1,14 @@
 {
-  "version": "2.4.0",
-  "versionCode": 20400,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.4.0.apk",
-  "sha256": "58672906dc8558f74bb31c27e8a642fce7efdaaaa81584fc664a7293e3a9ac50",
-  "date": "2026-11-03",
+  "version": "2.4.1",
+  "versionCode": 20401,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.4.1.apk",
+  "sha256": "989a05e875df9bb1c6bc932124bda054ecdd427e1503a283c4f2feb5088ed31b",
+  "date": "2026-11-10",
   "minAndroid": 24,
   "notes": [
-    "🎮 Tonpoon Arcade: games inside TP Browser that work offline. Open it from the home page or the ⋮ menu",
-    "⛏️ TP Blocks is built in: explore a world of blocks, break and build, and fly around, with no connection needed",
-    "⬇️ Get more games like Neon Snake and Brick Bounce when you’re online. Once downloaded, they play offline too"
+    "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions",
+    "🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used",
+    "📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI",
+    "📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure"
   ]
 }
