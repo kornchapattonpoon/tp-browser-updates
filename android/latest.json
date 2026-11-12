@@ -1,14 +1,14 @@
 {
-  "version": "2.4.1",
-  "versionCode": 20401,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.4.1.apk",
-  "sha256": "989a05e875df9bb1c6bc932124bda054ecdd427e1503a283c4f2feb5088ed31b",
-  "date": "2026-11-10",
+  "version": "2.4.2",
+  "versionCode": 20402,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/android/TP-Browser-2.4.2.apk",
+  "sha256": "2c84e5d7f7f5ab2f36f972219f74803d5fb1e2a8445f7c8bb85a476275636869",
+  "date": "2026-11-12",
   "minAndroid": 24,
   "notes": [
-    "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions",
-    "🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used",
-    "📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI",
-    "📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure"
+    "📷 Scan QR codes: tap the scan button in search, or ⋮ › Scan QR code. TP shows where a link goes before you open it",
+    "📶 Wi-Fi codes show the network name and password, ready to copy. Phone numbers, emails, places and PromptPay codes are recognised too",
+    "🖼️ Scan a photo: read a QR code from a screenshot or picture, even without the camera",
+    "✦ TP AI is back to how it was before the last update"
   ]
 }
