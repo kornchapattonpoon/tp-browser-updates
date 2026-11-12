@@ -1,22 +1,22 @@
 {
-  "version": "2.5.1",
-  "versionCode": 20501,
-  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.5.1.json",
-  "sha256": "bce5a57ace0a4e64b288ee38710116e074c2b01c09a582801e9aa75db22f0681",
+  "version": "2.5.2",
+  "versionCode": 20502,
+  "apk": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/tp-browser-ios-ui-2.5.2.json",
+  "sha256": "ff27420072796e7da1e14e049d3779c0d59f60b2b9ae70feba6044334e625b76",
   "minApp": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "notes": [
-    "🧠 TP AI is smarter: it now runs on OpenAI’s open gpt-oss models (served by Groq), and thinks harder before answering maths, science, coding and puzzle questions",
-    "🔎 For news, prices, scores and anything that changes, TP AI searches the web and reads the best pages itself, then tells you which sites it used",
-    "📌 Say “remember that…” and TP AI keeps the note for future chats. See or delete what it remembers in Settings › TP AI",
-    "📊 Answers can include tables, and TP AI checks its working and says when it isn’t sure"
+    "📷 Scan QR codes with Apple’s own code reader: tap the scan button in search, or ⋮ › Scan QR code. TP shows where a link goes before you open it",
+    "📶 Wi-Fi codes show the network name and password, ready to copy. Phone numbers, emails, places and PromptPay codes are recognised too",
+    "🖼️ Scan a photo: read a QR code from a screenshot or picture. (The scanner comes with the TP Browser 2.5.2 app: update it in SideStore or AltStore)",
+    "✦ TP AI is back to how it was before the last update"
   ],
   "app": {
-    "version": "2.5.1",
-    "build": 5,
-    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.1.ipa",
-    "sha256": "12b6618f1030950228cb739ce9c19aee1a20877f52e14bba883d55b02bd67370",
-    "size": 329554,
+    "version": "2.5.2",
+    "build": 6,
+    "ipa": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/TP-Browser-2.5.2.ipa",
+    "sha256": "896281766a1e9831e605b2038d15ecd5f21eda304e26eb7c6fab2cc1a6c019ab",
+    "size": 352483,
     "minOS": "15.0"
   },
   "source": "https://raw.githubusercontent.com/kornchapattonpoon/tp-browser-updates/main/ios/altstore.json"
